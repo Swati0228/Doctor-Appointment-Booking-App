@@ -122,7 +122,7 @@ const doctors = [
       speciality: 'ENT Specialist',
       degree: 'MBBS, MS (ENT)',
       experience: '4 Years',
-      about: 'Dr. David Lee specializes in treating conditions of the ear, nose, and throat with modern surgical techniques.',
+      about: '.',
       available: true,
       fees: 55,
       slots_booked: {},
@@ -176,7 +176,7 @@ const doctors = [
       slots_booked: {},
       address: { line1: '117th Cross, Richmond', line2: 'Circle, Ring Road, London' },
       date: Date.now()
-    },
+Dr. David Lee specializes in treating conditions of the ear, nose, and throat with modern surgical techniques    },
     {
       //_id: 'doc12',
       name: 'Dr. Daniel Evans',
