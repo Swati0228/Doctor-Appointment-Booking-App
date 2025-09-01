@@ -1,4 +1,11 @@
 # Prescripto - Hospital Management System
+## LIVE SITE URL
+
+**Prescripto FRONTEND** → [Click Here](doctor-appointment-booking-app-eight.vercel.app)
+
+**Prescripto ADMIN** → [Click Here](doctor-appointment-booking-app-mx2w.vercel.app)
+
+**Backend API** → [Click Here](https://doctor-appointment-booking-app-4z5q.onrender.com)
 
 ## Description
 **Prescripto** is a comprehensive Hospital Management System built on the MERN stack to enhance hospital operations. This system includes features such as secure user authentication, efficient appointment scheduling, patient record management, and real-time communication between doctors and patients. It provides a scalable and user-friendly platform to streamline healthcare workflows and improve the hospital experience.
